@@ -10,8 +10,8 @@
     "test:coverage": "jest --coverage --setupFiles dotenv/config",
     "lint": "standard",
     "lint:fix": "standard --fix",
-    "infra:start": "docker-compose up -d --build",
-    "infra:stop": "docker-compose down --remove-orphans"
+    "infra:start": "docker compose up -d --build",
+    "infra:stop": "docker  compose down --remove-orphans"
   },
   "author": "",
   "license": "ISC",
