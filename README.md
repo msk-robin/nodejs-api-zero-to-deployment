@@ -111,7 +111,7 @@ project
 Clone the repository
 
 ```bash/zsh
-git clone https://github.com/YOUR_USERNAME/nodejs-api-zero-to-deployment.git
+git clone https://github.com/msk-robin/nodejs-api-zero-to-deployment.git
 ```
 Move into the project directory
 ```bash/zsh
