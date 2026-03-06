@@ -127,7 +127,7 @@ npm run start
 ```
 (Check scripts in package.json for additional commands.)
 
-🐳 Docker
+# 🐳 Docker
 
 Start infrastructure
 ```bash/zsh
@@ -137,12 +137,12 @@ Stop infrastructure
 ```bash/zsh
 npm run infra:stop
 ```
-🧪 Run Tests
+# 🧪 Run Tests
 
 Tests are independent and should run successfully out of the box.
 
 npm test
-📚 Learning Goals
+# 📚 Learning Goals
 
 This repository explores:
 
@@ -160,7 +160,7 @@ CI/CD pipelines
 
 Security practices
 
-📖 Based On
+# 📖 Based On
 
 Node.js for Beginners
 by Ulises Gascón
@@ -173,7 +173,7 @@ Microsoft MVP
 
 Google Developer Expert
 
-🤓 Nerd Notes
+# 🤓 Nerd Notes
 
 If future-me decides to swap:
 ```
@@ -185,7 +185,7 @@ The architecture and tests should allow this with minimal pain.
 
 That’s the whole point.
 
-🚧 Work In Progress
+# 🚧 Work In Progress
 
 This project evolves chapter-by-chapter.
 
@@ -199,7 +199,7 @@ occasional chaos
 
 All part of the learning process.
 
-🛠 Future Improvements
+# 🛠 Future Improvements
 
 authentication
 
