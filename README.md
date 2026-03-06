@@ -76,7 +76,7 @@ Example tools used:
 ---
 
 # 📁 Project Structure
-
+```text
 project
 │
 ├── index.js
@@ -102,7 +102,7 @@ project
 │
 └── views
 └── about.ejs
-
+```
 
 ---
 
